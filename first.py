@@ -1,1 +1,2 @@
-print("hello")
+def greetWhite():
+    return print("hello white")
