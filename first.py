@@ -1,2 +1,2 @@
-def greetWhite():
-    return print("hello white")
+def greetBlack():
+    return print("hello black")
